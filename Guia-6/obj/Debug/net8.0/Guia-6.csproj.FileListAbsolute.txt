@@ -1,0 +1,14 @@
+C:\Users\ninoa\Desktop\Guia-6\Guia-6\bin\Debug\net8.0\Guia-6.exe
+C:\Users\ninoa\Desktop\Guia-6\Guia-6\bin\Debug\net8.0\Guia-6.deps.json
+C:\Users\ninoa\Desktop\Guia-6\Guia-6\bin\Debug\net8.0\Guia-6.runtimeconfig.json
+C:\Users\ninoa\Desktop\Guia-6\Guia-6\bin\Debug\net8.0\Guia-6.dll
+C:\Users\ninoa\Desktop\Guia-6\Guia-6\bin\Debug\net8.0\Guia-6.pdb
+C:\Users\ninoa\Desktop\Guia-6\Guia-6\obj\Debug\net8.0\Guia-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninoa\Desktop\Guia-6\Guia-6\obj\Debug\net8.0\Guia-6.AssemblyInfoInputs.cache
+C:\Users\ninoa\Desktop\Guia-6\Guia-6\obj\Debug\net8.0\Guia-6.AssemblyInfo.cs
+C:\Users\ninoa\Desktop\Guia-6\Guia-6\obj\Debug\net8.0\Guia-6.csproj.CoreCompileInputs.cache
+C:\Users\ninoa\Desktop\Guia-6\Guia-6\obj\Debug\net8.0\Guia-6.dll
+C:\Users\ninoa\Desktop\Guia-6\Guia-6\obj\Debug\net8.0\refint\Guia-6.dll
+C:\Users\ninoa\Desktop\Guia-6\Guia-6\obj\Debug\net8.0\Guia-6.pdb
+C:\Users\ninoa\Desktop\Guia-6\Guia-6\obj\Debug\net8.0\Guia-6.genruntimeconfig.cache
+C:\Users\ninoa\Desktop\Guia-6\Guia-6\obj\Debug\net8.0\ref\Guia-6.dll
